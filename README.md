@@ -1,5 +1,5 @@
 # CMPT 353 final project - Fall Detection
-
+### A Static Report with all the findings and precice details of techniques used is in the file Report.pdf
 ### Required libraries
 
     - All of the required libraries needed to run the project successfully are listed in the requirements.txt file. 
